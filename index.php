@@ -208,7 +208,7 @@ else
 				</a>
 			</p>
 			<p>
-				&copy; <?php echo date('Y'); ?> <?php echo $sitename; ?>
+				&copy; <?php echo date('Y'); ?> <?php echo $sitename; ?> Phone: +13234567890
 			</p>
 		</div>
 	</footer>
